@@ -67,7 +67,7 @@ export default class Input extends React.Component {
         return;
       }
     }
-    alert('nice');
+    this.props.navigation.navigate('Role', {data: this.state});
   }
 
   render() {
