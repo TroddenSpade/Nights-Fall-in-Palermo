@@ -8,9 +8,14 @@ import Home from "./src/components/Home";
 
 const AppNavigator = createStackNavigator({
   Home: {
-    screen: Home
+    screen: Home,
+    navigationOptions: {
+      header: null
+    }
   },
-  Input
+  Input: {
+    screen: Input
+  }
 });
 
 export default createAppContainer(AppNavigator);
