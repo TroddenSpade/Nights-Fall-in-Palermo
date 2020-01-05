@@ -118,7 +118,6 @@ export default class Input extends React.Component {
 
 const styles = StyleSheet.create({
   top: {
-    backgroundColor: 'red',
     flexDirection: 'row',
     justifyContent: 'space-around',
     alignItems: 'center',

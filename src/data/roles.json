@@ -1,23 +1,78 @@
 [
   {
-    "name": "GodFather"
+    "name": "GodFather",
+    "type": 1
   },
   {
+    "type": 1,
     "name": "BodyGuard"
   },
   {
-    "name": "Shabkhos"
+    "type": 1,
+    "name": "Shabkhosb"
   },
   {
+    "type": 0,
     "name": "Sherif"
   },
   {
+    "type": 1,
     "name": "Doctor"
   },
   {
+    "type": 0,
     "name": "Hero"
   },
   {
+    "type": 0,
     "name": "Detective"
+  },
+  {
+    "type": 0,
+    "name": "gorkan"
+  },
+  {
+    "type": 0,
+    "name": "wizard"
+  },
+  {
+    "type": 0,
+    "name": "fadaE"
+  },
+  {
+    "type": 0,
+    "name": "johnny"
+  },
+  {
+    "type": 0,
+    "name": "gardan koloft"
+  },
+  {
+    "type": 2,
+    "name": "dorage"
+  },
+  {
+    "type": 2,
+    "name": "majhool"
+  },
+  {
+    "type": 2,
+    "name": "hamzad"
+  },
+  {
+    "type": 2,
+    "name": "werewolf"
+  },
+  {
+    "type": 2,
+    "name": "sandika"
+  },
+  {
+    "type": 2,
+    "name": "emad"
+  },
+  {
+    "type": 2,
+    "name": "hezarchehre"
   }
 ]

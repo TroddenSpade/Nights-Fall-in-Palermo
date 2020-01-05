@@ -6,6 +6,8 @@ import {createStackNavigator} from 'react-navigation-stack';
 import Input from './src/components/Input';
 import Home from './src/components/Home';
 import Role from './src/components/Role';
+import Random from './src/components/Random';
+import MyRole from './src/components/MyRole';
 
 const AppNavigator = createStackNavigator({
   Home: {
@@ -19,6 +21,13 @@ const AppNavigator = createStackNavigator({
   },
   Role: {
     screen: Role,
+  },
+  Random,
+  MyRole: {
+    screen: MyRole,
+    navigationOptions: {
+      header: null,
+    },
   },
 });
 
